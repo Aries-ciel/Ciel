@@ -7,3 +7,5 @@ udpate by devdevdev
 udpate by test2222
 update by sshgitgithub com
 update by sshgitgithub com
+ Your local changes to the following files would be overwritten by merge:
+        hi.txt
